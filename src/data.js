@@ -5,7 +5,7 @@ export const books = [
     title: "Crack the Coding Interview",
     url: "https://covers.openlibrary.org/b/id/8091016-L.jpg",
     originalPrice: 49.95,
-    salePrice: 14.95,
+    salePrice: null,
     rating: 4.5,
   },
   {
