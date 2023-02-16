@@ -313,6 +313,10 @@ HIGHLIGHTS
   top: 1px;
 }
 
+.container__highlight--color {
+  background-color: #fff;
+}
+
 #highlights:after {
   transform: translateY(100%) rotate(180deg);
   bottom: 1px;
