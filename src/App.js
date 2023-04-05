@@ -1,11 +1,11 @@
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import Home from "./pages/Home";
-import Books from "./pages/Books";
+import Home from "./Pages/Home";
+import Books from "./Pages/Books";
 import { books } from './data'
-import BookInfo from "./pages/BookInfo";
-import Cart from "./pages/Cart";
+import BookInfo from "./Pages/BookInfo";
+import Cart from "./Pages/Cart";
 import { useState, useEffect } from "react";
 
 
